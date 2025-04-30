@@ -1,4 +1,4 @@
-# discord-ai
+# discord-ai 
 
 A Discord bot that integrates with the Cohere LLM API. The bot can respond to specific commands and mentions in a Discord server.
 
@@ -26,7 +26,7 @@ A Discord bot that integrates with the Cohere LLM API. The bot can respond to sp
 
 2. **Install Dependencies** 
 
-   Create a virtual environment (optional but recommended) and install the required packages:
+   Create a virtual environment (optional but recommended) & install the required packages:
 
    ```bash
    python -m venv venv
